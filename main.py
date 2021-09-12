@@ -45,7 +45,7 @@ def spam_cmd():
 
 def spam_tabs():
     """Spam user with tabs"""
-    urls = ["https://www.youtube.com/watch?v=dQw4w9WgXcQ", "https://pornhub.com", "https://www.youtube.com/watch?v=d1YBv2mWll0"]
+    urls = ["https://www.youtube.com/watch?v=dQw4w9WgXcQ", "https://www.youtube.com/watch?v=d1YBv2mWll0"]
     while True:
         sleep(0.1)
         system("start")
