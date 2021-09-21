@@ -20,12 +20,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][https://github.com/LPSebi/Get-Fucked]
-[![Forks][forks-shield]][https://github.com/LPSebi/Get-Fucked]
-[![Stargazers][stars-shield]][https://github.com/LPSebi/Get-Fucked]
-[![Issues][issues-shield]][https://github.com/LPSebi/Get-Fucked]
-[![MIT License][license-shield]][https://github.com/LPSebi/Get-Fucked]
-[![LinkedIn][linkedin-shield]][https://github.com/LPSebi/Get-Fucked]
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
