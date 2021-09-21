@@ -28,7 +28,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/LPSebi/Get-Fucked">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="img/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Get Fucked</h3>
@@ -80,11 +80,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Get Fucked Screen Shot][product-screenshot]](https://ray.so/?title=Get+Fucked&theme=midnight&spacing=32&background=true&darkMode=true&code=ZGVmIGxvZ2luKCk6CiAgICAiIiJQcmludCBsb2dpbiBtc2ciIiIKICAgIHByaW50KExPR0lOX01TRyk&language=python)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`LPSebi`, `Get-Fucked`, `twitter_handle`, `LPSebi@LPSebi.ml`, `Get Fucked`, `A very annoying virus`
+[![Get Fucked Screen Shot][product-screenshot]](file:img/preview.png)
 
 
 ### Built With
@@ -124,7 +120,6 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://github.com/LPSebi/Get-Fucked/wiki)_
 
@@ -188,6 +183,6 @@ Project Link: [https://github.com/LPSebi/Get-Fucked](https://github.com/LPSebi/G
 [issues-shield]: https://img.shields.io/github/issues/LPSebi/repo.svg?style=for-the-badge
 [issues-url]: https://github.com/LPSebi/Get-Fucked/issues
 [license-shield]: https://img.shields.io/github/license/LPSebi/repo.svg?style=for-the-badge
-[license-url]: https://github.com/LPSebi/Get-Fucked/blob/master/LICENSE.txt
+[license-url]: https://github.com/LPSebi/Get-Fucked/blob/master/LICENSE
 <!--[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/LPSebi -->
