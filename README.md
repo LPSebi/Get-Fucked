@@ -7,7 +7,7 @@
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** lpsebi, get-fucked, twitter_handle, lpsebi@lpsebi.ml, Get Fucked, A very annoying virus
+*** LPSebi, Get-Fucked, twitter_handle, LPSebi@LPSebi.ml, Get Fucked, A very annoying virus
 -->
 
 
@@ -20,19 +20,19 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][https://github.com/lpsebi/get-fucked]
-[![Forks][forks-shield]][https://github.com/lpsebi/get-fucked]
-[![Stargazers][stars-shield]][https://github.com/lpsebi/get-fucked]
-[![Issues][issues-shield]][https://github.com/lpsebi/get-fucked]
-[![MIT License][license-shield]][https://github.com/lpsebi/get-fucked]
-[![LinkedIn][linkedin-shield]][https://github.com/lpsebi/get-fucked]
+[![Contributors][contributors-shield]][https://github.com/LPSebi/Get-Fucked]
+[![Forks][forks-shield]][https://github.com/LPSebi/Get-Fucked]
+[![Stargazers][stars-shield]][https://github.com/LPSebi/Get-Fucked]
+[![Issues][issues-shield]][https://github.com/LPSebi/Get-Fucked]
+[![MIT License][license-shield]][https://github.com/LPSebi/Get-Fucked]
+[![LinkedIn][linkedin-shield]][https://github.com/LPSebi/Get-Fucked]
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/lpsebi/get-fucked">
+  <a href="https://github.com/LPSebi/Get-Fucked">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -41,14 +41,14 @@
   <p align="center">
     A very annoying virus
     <br />
-    <a href="https://github.com/lpsebi/get-fucked/wiki"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/LPSebi/Get-Fucked/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/lpsebi/get-fucked"><s>View Demo</s></a>
+    <a href="https://github.com/LPSebi/Get-Fucked"><s>View Demo</s></a>
     ·
-    <a href="https://github.com/lpsebi/get-fucked/issues">Report Bug</a>
+    <a href="https://github.com/LPSebi/Get-Fucked/issues">Report Bug</a>
     ·
-    <a href="https://github.com/lpsebi/get-fucked/issues">Request Feature</a>
+    <a href="https://github.com/LPSebi/Get-Fucked/issues">Request Feature</a>
   </p>
 </p>
 
@@ -89,7 +89,7 @@
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`lpsebi`, `get-fucked`, `twitter_handle`, `lpsebi@lpsebi.ml`, `Get Fucked`, `A very annoying virus`
+`LPSebi`, `Get-Fucked`, `twitter_handle`, `LPSebi@LPSebi.ml`, `Get Fucked`, `A very annoying virus`
 
 
 ### Built With
@@ -117,7 +117,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/lpsebi/get-fucked.git
+   git clone https://github.com/LPSebi/Get-Fucked.git
    ```
 2. Install pip packages
    ```sh
@@ -131,14 +131,14 @@ This is an example of how to list things you need to use the software and how to
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://github.com/lpsebi/get-fucked/wiki)_
+_For more examples, please refer to the [Documentation](https://github.com/LPSebi/Get-Fucked/wiki)_
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/lpsebi/get-fucked/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/LPSebi/Get-Fucked/issues) for a list of proposed features (and known issues).
 
 
 
@@ -165,9 +165,9 @@ Distributed under the Creative Commons License. See `LICENSE` for more informati
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@email](mailto:lpsebi@lpsebi.ml?subject=[GitHub]) - email
+Your Name - [@email](mailto:LPSebi@LPSebi.ml?subject=[GitHub]) - email
 
-Project Link: [https://github.com/lpsebi/get-fucked](https://github.com/lpsebi/get-fucked)
+Project Link: [https://github.com/LPSebi/Get-Fucked](https://github.com/LPSebi/Get-Fucked)
 
 
 
@@ -184,15 +184,15 @@ Project Link: [https://github.com/lpsebi/get-fucked](https://github.com/lpsebi/g
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/lpsebi/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/lpsebi/get-fucked/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/lpsebi/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/lpsebi/get-fucked/network/members
-[stars-shield]: https://img.shields.io/github/stars/lpsebi/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/lpsebi/get-fucked/stargazers
-[issues-shield]: https://img.shields.io/github/issues/lpsebi/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/lpsebi/get-fucked/issues
-[license-shield]: https://img.shields.io/github/license/lpsebi/repo.svg?style=for-the-badge
-[license-url]: https://github.com/lpsebi/get-fucked/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/LPSebi/repo.svg?style=for-the-badge
+[contributors-url]: https://github.com/LPSebi/Get-Fucked/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/LPSebi/repo.svg?style=for-the-badge
+[forks-url]: https://github.com/LPSebi/Get-Fucked/network/members
+[stars-shield]: https://img.shields.io/github/stars/LPSebi/repo.svg?style=for-the-badge
+[stars-url]: https://github.com/LPSebi/Get-Fucked/stargazers
+[issues-shield]: https://img.shields.io/github/issues/LPSebi/repo.svg?style=for-the-badge
+[issues-url]: https://github.com/LPSebi/Get-Fucked/issues
+[license-shield]: https://img.shields.io/github/license/LPSebi/repo.svg?style=for-the-badge
+[license-url]: https://github.com/LPSebi/Get-Fucked/blob/master/LICENSE.txt
 <!--[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/lpsebi -->
+[linkedin-url]: https://linkedin.com/in/LPSebi -->
