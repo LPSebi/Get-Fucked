@@ -80,7 +80,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Get Fucked Screen Shot][product-screenshot]](file:img/preview.png)
+[![Get Fucked Screen Shot][https://github.com/lpsebi/get-fucked/img/preview.png]](https://github.com/lpsebi/get-fucked/)
 
 
 ### Built With
