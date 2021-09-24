@@ -5,6 +5,7 @@ import webbrowser
 import random
 from time import sleep
 import threading
+from multiprocessing import Process
 
 # <---------->
 
@@ -64,10 +65,24 @@ def spam_tabs():
 
 # <---------->
 
-x1 = threading.Thread(target=spam_tabs, args=(1,))
-x2 = threading.Thread(target=spam_cmd, args=(1,))
-x3 = threading.Thread(target=spam_msgbox, args=(1,))
-x4 = threading.Thread(target=change_wallpaper, args=(1,))
+# x1 = threading.Thread(target=spam_tabs, args=(1,))
+# x2 = threading.Thread(target=spam_cmd, args=(1,))
+# x3 = threading.Thread(target=spam_msgbox, args=(1,))
+# x4 = threading.Thread(target=change_wallpaper, args=(1,))
+
+proc1 = Process(target=spam_tabs)
+proc1.start()
+
+proc2 = Process(target=spam_cmd)
+proc2.start()
+
+proc3 = Process(target=spam_msgbox)
+proc3.start()
+
+proc4 = Process(target=change_wallpaper)
+proc4.start()
+
+
 
 # <---------->
 
