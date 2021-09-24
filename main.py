@@ -1,7 +1,5 @@
 """Importing modules"""
 import ctypes
-import win32gui
-import win32.lib.win32con as win32con
 import os
 import webbrowser
 import random
@@ -37,6 +35,7 @@ def login():
 #    thisprogramm = win32gui.GetForegroundWindow()
 #    win32gui.ShowWindow(thisprogramm, win32con.SW_HIDE)
 
+
 # <---------->
 
 
@@ -61,6 +60,7 @@ def spam_tabs():
     while True:
         sleep(0.1)
         webbrowser.open_new_tab(random.choice(urls))
+
 
 # <---------->
 
