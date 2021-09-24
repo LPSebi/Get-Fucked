@@ -52,7 +52,7 @@ def spam_cmd():
         os.system("start")
 
 def change_wallpaper():
-    ctypes.windll.user32.SystemParametersInfoA(20, 0, "logo.png", 0)
+    ctypes.windll.user32.SystemParametersInfoA(20, 0, "img/logo.png", 0)
 
 
 def spam_tabs():
