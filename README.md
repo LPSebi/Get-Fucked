@@ -155,7 +155,7 @@ Distributed under the Creative Commons License. See `LICENSE` for more informati
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@email](mailto:LPSebi@LPSebi.ml?subject=[GitHub]) - email
+LPSebi - [lpsebi@lpsebi.ml](mailto:LPSebi@LPSebi.ml?subject=[GitHub]) - email
 
 Project Link: [https://github.com/LPSebi/Get-Fucked](https://github.com/LPSebi/Get-Fucked)
 
